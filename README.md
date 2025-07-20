@@ -2,7 +2,7 @@
 
 ### About Me 👨‍💻 
 
-Hey there! I'm Muhammad Asim, a dedicated Full-Stack .Net Developer passionate about crafting outstanding web solutions. With over 4+ years of hands-on experience, I specialize in creating cutting-edge applications that combine creativity and practicality.
+Hey there! I'm Muhammad Asim, a dedicated Full-Stack .Net Developer passionate about crafting outstanding web solutions. With over 5+ years of hands-on experience, I specialize in creating cutting-edge applications that combine creativity and practicality.
 
 ### My Expertise Highlights 🛠️
 I specialize in creating complex applications using .Net and React, seamlessly merging their capabilities. I'm well-versed in SQL Server, handling everything from databases to advanced features like Stored Procedures, Functions, Cursors, and Indexes. For code-based conditions, I leverage tools like LINQ and Dapper to ensure top-notch performance.
